@@ -1,4 +1,6 @@
 # morse-code-translator
+THIS IS A CLASS PROJECT
+
 A modular program that takes input in a .txt file and converts it into morse code. Outputs in another .txt file
 
 The program uses Windows_morseLetters.txt and Mac_morseLetters.txt to translate the text into morse code.
